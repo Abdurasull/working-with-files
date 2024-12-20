@@ -13,6 +13,7 @@ int main()
     if (input == NULL)
     {
         perror("input file yuq");
+        return 1;
     }
     //
     int count = 0, countnext;

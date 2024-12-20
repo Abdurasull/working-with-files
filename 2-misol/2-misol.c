@@ -8,7 +8,7 @@ int main(){
     //input.txt fayi bn ishlash un ram hotiradan(head) joy ajratamiz 
     FILE *input = fopen("input.txt", "r");
     FILE *output = fopen("output.txt", "w");
-    //agar head hotiradan olmoqchi bolgan manzilimizdan hatolik bolsa
+    //agar  hotiradan olmoqchi bolgan manzilimizdan hatolik bolsa
     if (input == NULL)
     {
         perror("input file yuq");
