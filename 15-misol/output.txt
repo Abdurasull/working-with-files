@@ -1,0 +1,6 @@
++ 1 marta
+ - 2 marta
+ / 1 marta
+ * 2 marta
+ () 3 marta va ) 1 ta ortiqcha
+ 
