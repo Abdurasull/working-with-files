@@ -55,8 +55,4 @@ int main()
     {
         fprintf(output1, "+ %d ta\n - %d ta\n / %d ta\n * %d ta\n () %d ta va ) %d ta ortiqcha\n ", sum, minus, division, sqr, skob_0, skob_1 - skob_0);
     }
-    
-    
-    
-    
 }
