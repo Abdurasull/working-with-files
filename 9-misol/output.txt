@@ -1,0 +1,6 @@
++ 1 ta
+ - 2 ta
+ / 1 ta
+ * 2 ta
+ () 3 ta va ) 1 ta ortiqcha
+ 
